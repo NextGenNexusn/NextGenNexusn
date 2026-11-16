@@ -1,89 +1,134 @@
-# 👋 Hey, I'm NextGenNexusn!
+<!-- =============== HEADER =============== -->
 
-\<h3 align="center">   Building, Learning & Exploring Artificial Intelligence \</h3>
+<div align="center">
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Always+Learning+Something+New](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer;Always+Learning+Something+New)" alt="Typing introduction" /> \</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=200&section=header&text=NextGenNexusn&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Building%20Beyond%20Boundaries&descAlignY=60&descSize=16" width="100%" />
 
-\<p align="center">   \<a href="[https://github.com/NextGenNexusn](https://github.com/NextGenNexusn)">     \<img src="[https://img.shields.io/badge/GitHub-NextGenNexusn-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-NextGenNexusn-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>   \</a> \</p>
+<h2>⚡ Welcome to My Digital Space</h2>
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;Deep+Learning+Enthusiast;Python+Developer;Turning+Ideas+Into+Intelligence" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
+<p>
+  <a href="https://github.com/NextGenNexusn">
+    <img src="https://img.shields.io/badge/GitHub-NextGenNexusn-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NextGenNexusn&style=for-the-badge&color=0369A1&label=PROFILE+VIEWS" />
+</p>
 
-I'm a developer passionate about technology, programming, and Artificial Intelligence.
-
-- 🧠 Exploring **Machine Learning & Deep Learning**.
-- 🐍 Developing my programming skills with Python.
-- 🤖 Interested in AI-powered applications and intelligent systems.
-- 📚 Continuously learning new technologies and concepts.
-- 💻 Building projects to turn ideas into practical solutions.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,c,cpp,java](https://skillicons.dev/icons?i=python,c,cpp,java)" alt="Programming languages"/> \</p>
-
-### AI / Machine Learning
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=tensorflow,pytorch](https://skillicons.dev/icons?i=tensorflow,pytorch)" alt="AI and deep learning tools"/>
-\</p>
-
-### Data Science & Development
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=numpy,pandas,git,github,vscode,jupyter](https://skillicons.dev/icons?i=numpy,pandas,git,github,vscode,jupyter)" alt="Development tools"/>
-\</p>
-
-*Note: Keep only the icons for technologies you actually use or are learning.*
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<!-- =============== ABOUT =============== -->
 
-Here are some projects I'm working on and exploring.
+## 🧬 About Me
 
-\<!-- Replace these examples with your actual repository links and descriptions -->
+```python
+class NextGenNexusn:
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>🚀 Project One\</h3>
-&#x20;     \<p>Describe your best Machine Learning project here.\</p>
-&#x20;     \<a href="[https://github.com/NextGenNexusn](https://github.com/NextGenNexusn)">View Repository →\</a>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3>🧠 Project Two\</h3>
-&#x20;     \<p>Describe your Deep Learning or AI project here.\</p>
-&#x20;     \<a href="[https://github.com/NextGenNexusn](https://github.com/NextGenNexusn)">View Repository →\</a>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+    def __init__(self):
+        self.name = "NextGenNexusn"
+        self.role = "Aspiring AI/ML Developer"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Python Development"
+        ]
+        self.mindset = "Learn | Build | Innovate"
+
+    def current_focus(self):
+        return "Building intelligent solutions"
+
+me = NextGenNexusn()
+```
+
+- 🧠 Exploring the world of Artificial Intelligence.
+- 🤖 Learning Machine Learning and Deep Learning.
+- 🐍 Working with Python and practical programming.
+- 🚀 Building projects and experimenting with new ideas.
+- 🌌 Interested in the future of intelligent technology.
 
 ---
 
-## 📊 GitHub Statistics
+<!-- =============== TECH STACK =============== -->
 
-\<p align="center">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=NextGenNexusn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=NextGenNexusn\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="GitHub statistics"/>   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NextGenNexusn&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=NextGenNexusn\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used languages"/> \</p>
+## ⚙️ Tech Stack & Tools
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=NextGenNexusn&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=NextGenNexusn\&theme=tokyonight\&hide_border=true)" alt="GitHub streak"/> \</p>
+<div align="center">
+
+### 💻 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,jupyter,git,github,vscode&theme=dark" />
+
+### 🧠 Areas of Interest
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+
+</div>
 
 ---
+
+<!-- =============== PROJECTS =============== -->
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/NextGenNexusn/MachineLearning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NextGenNexusn&repo=MachineLearning&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8" />
+</a>
+
+<p>
+  A collection of hands-on Python projects, machine learning experiments, and practical workflows.
+</p>
+
+</div>
+
+---
+
+<!-- =============== GITHUB STATS =============== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NextGenNexusn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NextGenNexusn&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=C9D1D9" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=NextGenNexusn&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+<!-- =============== CONNECT =============== -->
 
 ## 🌐 Connect With Me
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/NextGenNexusn](https://github.com/NextGenNexusn)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<!-- Add your LinkedIn and professional email links here -->
-\</p>
+<div align="center">
+
+<a href="https://github.com/NextGenNexusn">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+<p>Open to learning, collaboration and building interesting projects.</p>
+
+</div>
 
 ---
 
-\<p align="center">   \<i>Building today. Learning every day. Creating tomorrow. 🚀\</i> \</p>
+<div align="center">
 
-\<p align="center">   ⭐ Thanks for visiting my profile! \</p>
+### ⚡ LEARN. BUILD. INNOVATE.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0F172A,100:020617&height=100&section=footer" width="100%" />
+
+</div>
